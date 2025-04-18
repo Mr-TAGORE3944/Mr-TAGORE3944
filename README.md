@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/tagore-kommu-89b33b296/?lipi=urn%3ali%3apage%3ad_flagship3_feed%3bjubap8u7tymvcxepatpaga%3d%3d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/tagore-kommu-89b33b296/?lipi=urn%3ali%3apage%3ad_flagship3_feed%3bjubap8u7tymvcxepatpaga%3d%3d" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/tagore-kommu-89b33b296/?lipi=urn%3ali%3apage%3ad_flagship3_feed%3bjubap8u7tymvcxepatpaga%3d%3d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mr-tagore3944" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/mr-tagore3944" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mr-tagore3944" height="30" width="40" /></a>
 </p>
 
